@@ -1,5 +1,5 @@
 ---
-title: Mi primra página de GitHub
+title: Mi primera página de GitHub
 ---
 
 # Bienvenido a la página
